@@ -9,7 +9,12 @@
   "contributors": [
     {
       "name": "Jay LaPorte",
-      "email": "jay@forecast.io"
+      "email": "jay@forecast.io",
+      "web": "https://github.com/ironwallaby"
+    },
+    {
+      "name": "Yaroslav Klyuyev",
+      "web": "https://github.com/imposeren"
     }
   ],
   "repository": {
